@@ -1,0 +1,11 @@
+*.tar
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.tiff
+*.pth
+*.pyc
+*.pkl
+/data/mapbox_token.pk
+/__pycache__/*
